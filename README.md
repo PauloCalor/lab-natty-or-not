@@ -1,51 +1,34 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
+Olá pessoal, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 Bora Pro Desafio!?💪🤓
 
 ### Objetivos
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. 
 
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Assistente Virtual Eva Cerebrum
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Eva Cerebrum é um assistente virtual alimentado por inteligência artificial, projetado para ajudar os usuários a explorar e entender o mundo do Deep Learning. Ela fornece informações claras e concisas, tornando o aprendizado acessível a todos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizamos várias tecnologias e ferramentas para criar Eva, incluindo:
+- D-ID Agents para a criação do avatar
+- LensGo.ai para a geração de texto
+- Submagic.co para a análise de sentimentos
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo de criação envolveu várias etapas. Primeiro, criamos o avatar de Eva usando D-ID Agents. Em seguida, treinamos nosso modelo de linguagem em LensGo.ai com vários textos sobre Deep Learning. Por fim, usamos Submagic.co para garantir que as respostas de Eva sejam informativas e envolventes.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Eva tem sido uma ferramenta valiosa para muitos aprendizes de Deep Learning. Ela foi capaz de simplificar conceitos complexos e tornar o aprendizado mais envolvente e divertido.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar Eva foi um desafio interessante. Trabalhar com IA nos permitiu explorar novas possibilidades e nos deu uma nova perspectiva sobre o que a tecnologia pode alcançar. Estamos animados para ver onde essa jornada nos levará a seguir.
